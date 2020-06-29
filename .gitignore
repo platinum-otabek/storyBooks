@@ -34,6 +34,7 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+.gitignore
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
@@ -64,6 +65,8 @@ typings/
 
 # Output of 'npm pack'
 *.tgz
+# Output of 'mp4'
+*.mp4
 
 # Yarn Integrity file
 .yarn-integrity
